@@ -1,0 +1,18 @@
+PODS:
+  - DACircularProgress (2.3.1)
+  - MLTransition (2.1.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - DACircularProgress (~> 2.3.1)
+  - MLTransition (~> 2.1.0)
+  - SDWebImage (~> 3.7.5)
+
+SPEC CHECKSUMS:
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  MLTransition: 48ce7b91ef0c6acfcb9d03b22d2fa75d5826018f
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+COCOAPODS: 0.39.0
